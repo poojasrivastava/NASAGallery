@@ -1,0 +1,6 @@
+framework module Pods_NASAGalleryTests {
+  umbrella header "Pods-NASAGalleryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
